@@ -1,2 +1,3 @@
 # Financial-Analyst-
-Portfolio specifc to Financial Analysis
+Portfolio specific to Financial and Data Analysis
+- All my projects are here. 
